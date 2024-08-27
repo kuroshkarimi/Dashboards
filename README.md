@@ -1,1 +1,1 @@
-This repository contains projects conducted in Power BI
+This repository contains projects created using Power BI
